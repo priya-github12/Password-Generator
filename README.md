@@ -1,3 +1,7 @@
 # Password-Generator
-A project that helps in generating  password of any kind having different constraints. 
-It is created using Javascript,HTML 5,CSS 3.
+It is hard to amke a new password for every other website especially when every password has to fulfill some basic demands.
+so, this website is crested to generate the unique and complex password.
+
+
+It is entirely built on vanilla Javascript,HTML and CSS.
+No external library used.
